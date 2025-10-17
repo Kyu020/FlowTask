@@ -82,7 +82,7 @@ export default function TaskDetailPage() {
           <div className="text-center py-12">
             <div className="text-6xl mb-4">❌</div>
             <h1 className="text-2xl font-bold text-gray-800 mb-4">Task Not Found</h1>
-            <p className="text-gray-600 mb-6">The task you're looking for doesn't exist.</p>
+            <p className="text-gray-600 mb-6">The task you&#39;re looking for doesn&#39;t exist.</p>
             <Link
               href="/tasks"
               className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold transition duration-200"
